@@ -1,0 +1,18 @@
+# --- Python Environment & Runtime Artifacts ---
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# --- IDE & Operating System System Extras  ---
+.vscode/
+.idea/
+.DS_Store
+CACHEDIR.TAG
+
+# --- Assignment 11 Relational Assets (Data Protection) ---
+db/
+*.db
+
+# --- Compiled Interactive Web Analytics Deliverables ---
+*.html
