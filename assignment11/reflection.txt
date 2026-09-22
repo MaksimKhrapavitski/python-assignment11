@@ -1,0 +1,5 @@
+1. Static visualizations are fixed images that show data in one view. Interactive visualizations allow users to zoom, hover, filter, and explore data in more detail. Interactive visualizations provide a more engaging experience and help users discover patterns that may not be obvious in static charts.
+
+2. Dashboards provide a centralized view of important information and allow users to explore data in real time. They make it easier to monitor key metrics, compare trends, and make decisions based on current information. Dashboards are widely used in business and analytics environments because they combine multiple visualizations and controls into a single interface.
+
+3. Interactive tools such as Plotly improve data communication by allowing users to directly interact with charts and visualizations. Features such as hover information, zooming, filtering, and dynamic updates help users better understand complex datasets. These tools make presentations and reports more informative and engaging in professional settings.
